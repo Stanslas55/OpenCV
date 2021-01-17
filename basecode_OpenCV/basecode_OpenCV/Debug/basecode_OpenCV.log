@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(303,33): warning C4244: '+=' : conversion de 'float' en 'int', perte possible de données
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(388,75): warning C4244: '=' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(389,75): warning C4244: '=' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(390,75): warning C4244: '=' : conversion de 'float' en '_Tp', perte possible de données
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(408,15): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(409,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(409,17): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(472,23): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\basecode_OpenCV\main.cpp(473,24): warning C4244: '=' : conversion de 'double' en 'int', perte possible de données
+  basecode_OpenCV.vcxproj -> C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\bin\basecode_OpenCV_d.exe
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_aruco320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_bgsegm320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_bioinspired320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_calib3d320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_ccalib320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_core320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_datasets320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_dnn320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_dpm320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_face320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_features2d320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_ffmpeg320.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_flann320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_fuzzy320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_highgui320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_imgcodecs320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_imgproc320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_line_descriptor320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_ml320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_objdetect320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_optflow320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_phase_unwrapping320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_photo320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_plot320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_reg320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_rgbd320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_saliency320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_shape320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_stereo320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_stitching320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_structured_light320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_superres320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_surface_matching320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_text320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_tracking320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_video320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_videoio320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_videostab320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_xfeatures2d320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_ximgproc320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_xobjdetect320d.dll
+  C:\Users\nicol\OneDrive - Groupe ESIEA\4A\1- Technique\Imagerie Numerique\TD\basecode_OpenCV_VS2015\basecode_OpenCV\OpenCV\bin\Debug\opencv_xphoto320d.dll
+         42 fichier(s) copié(s).
